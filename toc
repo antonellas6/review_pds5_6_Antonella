@@ -12,12 +12,14 @@
 		<li><b>Topic One</b></li>
 		<li><b>Topic Two</b></li>
 		<li><b>Topic Three</b></li>
-	</ul><h2>Chapter 2</h2>
+	</ul>
+<a href= "chapter2.html"><h2>Chapter 2</h2></a>
 	<ul>
 		<li><b>Topic One</b></li>
 		<li><b>Topic Two</b></li>
 		<li><b>Topic Three</b></li>
-	</ul><h2>Chapter 3</h2>
+	</ul>
+<a href= "chapter3.html"><h2>Chapter 3</h2></a>
 	<ul>
 		<li><b>Topic One</b></li>
 		<li><b>Topic Two</b></li>
