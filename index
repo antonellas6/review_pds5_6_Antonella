@@ -1,13 +1,12 @@
-<HTML>
-<HEAD>
-<TITLE>Linking Sample - Index Page</TITLE>
-</HEAD>
+<!DOCTYPE html>
+<head>
+<title> Linking Sample - Index Page </title>
+</head>
 
-<BODY>
+<body>
 
-<H1>Index Page</H1>
+<h1> Index Page </h1>
+<a href="toc.html">Click here to go to TOC</a>
 
-<BLOCKQUOTE>This is the Index page for the linking examples in Chapter 
-4.</BLOCKQUOTE>
-</BODY>
-</HTML>
+</body>
+</html>
